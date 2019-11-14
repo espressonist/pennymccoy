@@ -1,7 +1,7 @@
 import React from "react";
 import Layout from "../components/Layout";
 
-const Home = () => {
+const Artworks = () => {
     return (
         <Layout>
             <div></div>
@@ -9,4 +9,4 @@ const Home = () => {
     );
 };
 
-export default Home;
+export default Artworks;
